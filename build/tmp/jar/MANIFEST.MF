@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: crazyideas
+Specification-Vendor: Tiago Defendi
+Specification-Version: 1
+Implementation-Title: crazy_ideias
+Implementation-Version: v0.0.1-alpha
+Implementation-Vendor: Tiago Defendi
+

@@ -1,0 +1,33 @@
+/time set day
+/enchant Dev minecraft:silk_touch
+/time set day
+/time set night
+/time set day
+/time set night
+/time set day
+/enchant Dev minecraft:looting
+/enchant Dev minecraft:looting 3
+/weather clear
+/enchant Dev minecraft:looting
+/enchant Dev minecraft:looting 3
+/time set day
+/time set night
+/kill @e[type=!minecraft:player]
+/time set day
+/summon minecraft:wither
+/summon minecraft:ender_dragon
+/summon minecraft:wither
+/summon minecraft:ender_dragon
+/time set day
+/summon minecraft:wither
+/summon minecraft:ender_dragon
+/time set day
+/summon minecraft:ender_dragon
+/summon minecraft:wither
+/summon minecraft:ender_dragon
+/time set day
+/summon minecraft:ender_dragon
+/summon minecraft:wither
+/summon minecraft:ender_dragon
+/time set day
+/gamerule doDaylightCycle false

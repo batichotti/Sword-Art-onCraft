@@ -1,0 +1,27 @@
+[09dez.2024 00:42:58.103] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\tiago\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, crazyideas, --all, --output, C:\Users\tiago\Desktop\Tiago\Programacao\CrazyIdeas\src\generated\resources, --existing, C:\Users\tiago\Desktop\Tiago\Programacao\CrazyIdeas\src\main\resources]
+[09dez.2024 00:42:58.110] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.5+11-LTS
+[09dez.2024 00:42:58.110] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[09dez.2024 00:42:58.266] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[09dez.2024 00:42:58.378] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/tiago/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[09dez.2024 00:42:59.462] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[09dez.2024 00:43:00.193] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\tiago\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, crazyideas, --all, --output, C:\Users\tiago\Desktop\Tiago\Programacao\CrazyIdeas\src\generated\resources, --existing, C:\Users\tiago\Desktop\Tiago\Programacao\CrazyIdeas\src\main\resources]
+[09dez.2024 00:43:06.649] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[09dez.2024 00:43:06.649] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[09dez.2024 00:43:06.691] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[09dez.2024 00:43:07.348] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [crazyideas]
+[09dez.2024 00:43:07.471] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/tiago/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.11.10-1.21/forge-1.21-51.0.33_mapped_parchment_2024.11.10-1.21.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[09dez.2024 00:43:07.472] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/tiago/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.11.10-1.21/forge-1.21-51.0.33_mapped_parchment_2024.11.10-1.21.jar%230!/data/.mcassetsroot' uses unexpected schema
+[09dez.2024 00:43:07.681] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[09dez.2024 00:43:15.592] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 7910 ms
+[09dez.2024 00:43:15.594] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[09dez.2024 00:43:22.690] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 7096 ms
+[09dez.2024 00:43:22.690] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id crazyideas
+[09dez.2024 00:43:22.793] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id crazyideas finished after 103 ms
+[09dez.2024 00:43:22.794] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id crazyideas
+[09dez.2024 00:43:22.804] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id crazyideas finished after 10 ms
+[09dez.2024 00:43:22.804] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: crazyideas
+[09dez.2024 00:43:22.893] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: crazyideas finished after 83 ms
+[09dez.2024 00:43:22.893] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: crazyideas
+[09dez.2024 00:43:23.073] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: crazyideas finished after 179 ms
+[09dez.2024 00:43:23.073] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 15392 ms
+[09dez.2024 00:43:23.090] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 45, old count: 0, new count: 46, removed stale: 0, written: 45

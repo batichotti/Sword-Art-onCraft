@@ -1,0 +1,50 @@
+{
+  "creativetab.crazyideas.sacred_tab": "Sacred Items",
+
+  "item.crazyideas.holy_metal": "Holy Metal",
+  "block.crazyideas.holy_metal_block": "Holy Metal Block",
+  "item.crazyideas.angel_blade": "Angel Blade",
+  "tooltip.crazyideas.angel_blade": "\n§7When in Main Hand:§r\n §2 §b§l+ Infinity§r§2 Attack Damage\n 2.5 Attack Speed§r",
+  "block.crazyideas.holy_catalyst_block": "Holy Catalyst Block",
+  "tooltip.crazyideas.holy_catalyst_block": "Enhances the §3§lsacred§r energy and §3§lblesses§r what is offered to it",
+  "block.crazyideas.holy_lamp": "Holy Lamp",
+
+
+  "creativetab.crazyideas.sinful_tab": "Sinful Items",
+
+  "item.crazyideas.evil_metal": "Evil Metal",
+  "block.crazyideas.evil_metal_block": "Evil Metal Block",
+  "item.crazyideas.demon-killing_knife": "Demon-Killing Knife",
+  "item.crazyideas.evil_metal_hammer": "Evil Metal Hammer",
+  "item.crazyideas.hell_fuel": "Hell Fuel",
+
+
+  "creativetab.crazyideas.death_tab": "Death Items",
+
+  "item.crazyideas.death_scythe": "Death Scythe",
+
+
+  "creativetab.crazyideas.utility_tab": "Utility Items",
+
+  "item.crazyideas.metal_detector": "Metal Detector",
+  "item.crazyideas.chisel": "Chisel",
+
+
+  "creativetab.crazyideas.japan_tab": "Japanese Items",
+
+  "item.crazyideas.senzu_bean": "Senzu Bean",
+  "item.crazyideas.katana" : "Katana",
+
+
+  "creativetab.crazyideas.adventure_time_tab": "Advanture Time",
+
+  "item.crazyideas.scarlet": "Scarlet",
+  "item.crazyideas.root_sword": "Root Sword",
+  "item.crazyideas.demon_blood_sword": "Demon Blood Sword",
+  "item.crazyideas.grape_sword": "Grape Sword",
+  "item.crazyideas.4d_sword": "4D Sword",
+  "item.crazyideas.grass_sword": "Grass Sword",
+  "item.crazyideas.finn_sword": "Finn Sword",
+  "item.crazyideas.small_sword": "Small Sword",
+  "item.crazyideas.night_sword": "Night Sword"
+}

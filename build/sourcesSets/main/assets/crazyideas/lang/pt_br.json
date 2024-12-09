@@ -1,0 +1,49 @@
+{
+  "creativetab.crazyideas.sacred_tab": "Itens Sagrados",
+
+  "item.crazyideas.holy_metal": "Metal Santo",
+  "block.crazyideas.holy_metal_block": "Bloco de Metal Santo",
+  "item.crazyideas.angel_blade": "Espada do Anjo",
+  "tooltip.crazyideas.angel_blade": "\n§7Na mão principal:§r\n §2Dano §b§l+ Infinito§2 por Golpe\n 2.5 Velocidade de Ataque§r",
+  "block.crazyideas.holy_catalyst_block": "Bloco Catalizador Santo",
+  "tooltip.crazyideas.holy_catalyst_block": "Potencializa a energia §3§lsanta§r e §3§labençoa§r o que é oferecido a ele",
+  "block.crazyideas.holy_lamp": "Lampada Santa",
+
+
+  "creativetab.crazyideas.sinful_tab": "Itens Pecaminosos",
+
+  "item.crazyideas.evil_metal": "Metal Maligno",
+  "block.crazyideas.evil_metal_block": "Block de Metal Maligno",
+  "item.crazyideas.demon-killing_knife": "Faca Matadora de Demônios",
+  "item.crazyideas.evil_metal_hammer": "Martelo de Metal Maligno",
+  "item.crazyideas.hell_fuel": "Combustível Infernal",
+
+
+  "creativetab.crazyideas.death_tab": "Itens da Morte",
+
+  "item.crazyideas.death_scythe": "Foice da Morte",
+
+
+  "creativetab.crazyideas.utility_tab": "Itens Utilitários",
+
+  "item.crazyideas.metal_detector": "Detector de Metais",
+  "item.crazyideas.chisel": "Talhadeira",
+
+  "creativetab.crazyideas.japan_tab": "Itens Japoneses",
+
+  "item.crazyideas.senzu_bean": "Semente dos Deuses",
+  "item.crazyideas.katana" : "Katana",
+
+
+  "creativetab.crazyideas.adventure_time_tab": "Hora de Aventura",
+
+  "item.crazyideas.scarlet": "Scarlet",
+  "item.crazyideas.root_sword": "Espada Raiz",
+  "item.crazyideas.demon_blood_sword": "Espada de Sangue de Demônio",
+  "item.crazyideas.grape_sword": "Espada de Suco de Uva",
+  "item.crazyideas.4d_sword": "Espada 4D",
+  "item.crazyideas.grass_sword": "Espada de Grama",
+  "item.crazyideas.finn_sword": "Espada Finn",
+  "item.crazyideas.small_sword": "Florete",
+  "item.crazyideas.night_sword": "Espada da Noite"
+}
