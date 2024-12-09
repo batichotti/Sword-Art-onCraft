@@ -1,3 +1,3 @@
-# Infinity's Crazy Ideas
+# SMILE Sword Art on-Craft
 
-This my mod project
+This is our mod project
